@@ -39,7 +39,7 @@ const UserProfile = () => {
 
          dispatch(getUserProfile(params.id));
 
-        // dispatch(loadUser());
+        dispatch(loadUser());
 
 
     }
