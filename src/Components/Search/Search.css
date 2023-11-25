@@ -1,7 +1,5 @@
 .search {
-    height: 100vh;
-    /* background-image: linear-gradient(to right, #fff5bc, #cec1ff); */
-  
+    height: 100vh;  
     display: flex;
     align-items: center;
     justify-content: center;
